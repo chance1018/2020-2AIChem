@@ -1,0 +1,26 @@
+CH485A: Special Topics in Modern Chemistry I (subtitle: Deep learning for chemistry)
+    by Prof. Woo Youn Kim
+
+    Instructor’s Contact Information
+    Email: wooyoun@kaist.ac.kr, Office: 3102 (E6-4), Office Phone: 042-350-2815
+    Office hour: Monday 13:00-15:00, #3102 or #3120 (TA)
+
+    Course Description:
+    AI has become a big social issue as it spreads rapidly to science, industry, and even daily life. Deep learning techniques has attracted great attention as a new powerful tool for chemical research. In this course, we will discuss the role of artificial intelligence in modern chemistry and look at the latest trends in this field. It aims to learn practical knowledge that can be used in actual research field through theory and practice focused on deep learning.
+
+    Textbook: Lecture notes will be provided.
+
+    Prerequisite: python language, introductory course of linear algebra, physical chemistry I and II.
+
+    Course Schedule: 
+    This course schedule may be updated depending on the phase of the class and situation. 
+    Evaluation: Assignment 1 (15 %), Assignment 2 (15 %), Assignment 3 (15 %), Assignment 4 (15 %), Term project (30 %), Bonus (10 %)
+    No attendance score, but if missing more than 5 times, F will be given regardless of the other records.
+
+    Grade: Absolute evaluation. 
+    90-100pts: A+, 80-90pts: A0, 70-80pts: A-, 60-70pts: B+, 50-60pts: B0, 40-50pts: B-, 30-40pts: C+, 25-30pts: C0, 20-25pts: C-, 15-20pts: D+, 10-15pts: D0, <10pts: F
+
+
+    Bonus Points: Bonus points will be given to those who actively participate in the class (ex. Questions). Either in class or after class, you may raise questions. A Q&A board is given through the KLMS site for the after-class participation. 
+
+    Course Website: klms.kaist.ac.kr site will be utilized. assignments, due dates and important notices will be posted on this website.
